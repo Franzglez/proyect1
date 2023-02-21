@@ -1,0 +1,20 @@
+header{
+    background-color: rgb(148, 196, 214);
+    border: solid;
+    color:rgb(32, 32, 137)
+}
+h2{color: rgb(85, 75, 199);
+
+}h3{
+    color: rgb(152, 46, 124);
+}
+
+.bio{
+    background-color: rgb(230, 185, 199);
+}
+.info{background-color: rgb(179, 224, 209);
+    
+}
+p{
+    color: rgb(255, 255, 255);
+}
